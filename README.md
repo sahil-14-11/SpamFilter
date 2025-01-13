@@ -1,5 +1,6 @@
 # SpamFilter
 It is Java based project that filter spam in our G-mails and text message.
+
 CONTENTS: 1. SPAM FILTER 
 	   2. ADDRESS FINDER (extra credit)
 		  
